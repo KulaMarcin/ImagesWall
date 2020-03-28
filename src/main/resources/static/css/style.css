@@ -1,0 +1,108 @@
+body{
+    background: url(../img/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.delete-image-style{
+    text-align: center;
+}
+
+.container-style{
+    padding: 50px;
+    background-color: white;
+    height: 100vh;
+    border-radius: 30px;
+}
+
+.container-home-style {
+    padding: 50px;
+    background-color: white;
+    min-height: 100vh;
+    width: 50%;
+    border-radius: 30px;
+}
+
+.container-update-style{
+    margin-top: 100px;
+    padding: 50px;
+    background-color: white;
+    height: 400px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.table-style{
+    text-align: center;
+    padding: 10px;
+}
+
+.row-style{
+    padding: 25px;
+}
+
+.col-style{
+
+}
+
+.form-style{
+    display: inline-block;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #90dfaa !important;
+}
+
+.images-gallery-style{
+    text-align: center;
+}
+
+.logo-style{
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 42px;
+}
+
+.login-container-style{
+    padding: auto;
+
+    text-align: center;
+
+}
+
+.home-logo-style{
+    text-align: center;
+}
+
+.login-col-style{
+    border-radius: 30px;
+    margin-top: 180px;
+    padding-top: 100px;
+    background-color: white;
+    height: 620px;
+    width: 300px;
+}
+
+.input-group{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+.nav-link-style{
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.register-col-style{
+    border-radius: 30px;
+    margin-top: 50px;
+    padding-top: 60px;
+    background-color: white;
+    height: 910px;
+}
+
+.auto-margin{
+    text-align: center;
+}
